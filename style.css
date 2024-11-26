@@ -1,0 +1,65 @@
+.medium-img {
+height: 300px;
+width: 300px;
+border-radius: 58%;
+object-fit: cover;
+}
+body {
+	background-color: ffe5ec;
+}
+h1{
+	color:003566;
+	font-family: "Quicksand", sans-serif;
+	border-radius: 70%;
+}
+h2{
+	color:003566;
+	font-size: 25px;
+	font-family: "Quicksand", sans-serif;
+	text-align: center;
+}
+h3{
+	font-family: "Quicksand", sans-serif;
+	border-radius: 200px;
+	background-color: 9d8189;
+}
+h4{
+	font-family: "Quicksand", sans-serif;
+	border-radius: 200px;
+	background-color: 9d8189;
+}
+
+
+.bg_marron {
+	background-color: #9d8189
+
+}
+
+.mimi-img {
+height: 300px;
+width: 300px;
+border-radius: 58%;
+object-fit: cover;
+}
+
+.foot-img {
+height: 300px;
+width: 300px;
+border-radius: 58%;
+object-fit: cover;
+}
+
+.voyage-img {
+border-radius: 200px;
+height: 300px;
+width: 300px;
+object-fit: cover;
+}
+
+h5{
+	font-family: "Quicksand", sans-serif;
+	border-radius: 200px;
+	background-color: 9d8189;
+}
+
+
